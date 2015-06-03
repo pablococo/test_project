@@ -10,6 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     std::cout << "kkk pablococo\n";
+    std::cout << "방배동 레스토랑\n";
     std::cout << "Hello, World!\n";
     return 0;
 }
