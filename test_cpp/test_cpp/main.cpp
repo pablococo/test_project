@@ -9,6 +9,7 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
+    std::cout << "실험적인 업무1\n";
     std::cout << "kkk pablococo\n";
     std::cout << "방배동 레스토랑\n";
     std::cout << "Hello, World!\n";
