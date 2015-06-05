@@ -16,5 +16,6 @@ int main(int argc, const char * argv[]) {
     std::cout << "일상적인 업무\n";
     std::cout << "일상적인 업무2\n";
     std::cout << "일상적인 업무3\n";
+    std::cout << "브랜치\n";
     return 0;
 }
