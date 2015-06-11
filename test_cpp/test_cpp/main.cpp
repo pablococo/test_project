@@ -20,5 +20,6 @@ int main(int argc, const char * argv[]) {
     std::cout << "브랜치\n";
     std::cout << "Upload\n";
     std::cout << "Upload2\n";
+    std::cout << "git_test1\n";
     return 0;
 }
