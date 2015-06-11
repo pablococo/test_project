@@ -21,5 +21,6 @@ int main(int argc, const char * argv[]) {
     std::cout << "Upload\n";
     std::cout << "Upload2\n";
     std::cout << "git_test1\n";
+    std::cout << "git_test2\n";
     return 0;
 }
